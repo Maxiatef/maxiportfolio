@@ -209,6 +209,7 @@ export const stages: Stage[] = [
     desc: 'Company portfolio site for a software agency, showcasing web, mobile, SEO and AI services with an animated hero, service carousel and a built-in chat widget.',
     stack: ['HTML', 'CSS', 'JavaScript', 'Responsive design'],
     link: 'https://kemetts.com/',
+    img: '/projects/kemet.jpg',
     filter: 'web',
     featured: true,
   },
