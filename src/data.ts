@@ -204,6 +204,15 @@ export const stages: Stage[] = [
     featured: true,
   },
   {
+    title: 'Kemet Technologies',
+    kind: 'Client project · Company website',
+    desc: 'Company portfolio site for a software agency, showcasing web, mobile, SEO and AI services with an animated hero, service carousel and a built-in chat widget.',
+    stack: ['HTML', 'CSS', 'JavaScript', 'Responsive design'],
+    link: 'https://kemetts.com/',
+    filter: 'web',
+    featured: true,
+  },
+  {
     title: 'ATTRACT',
     kind: 'Next.js · Technical SEO',
     desc: 'Gaming products storefront focused on pairing dynamic data rendering with high-performance technical SEO, using a server-side API proxy.',
